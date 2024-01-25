@@ -1,0 +1,1 @@
+This repository is a dedicated space for tracking my weekly progress on HackerRank. Each week, I’ll be adding solutions to the problems I’ve tackled, providing a comprehensive view of my coding journey. It’s not just a testament to my growing skills, but also a resource for others who might be working on similar challenges. Happy coding!
